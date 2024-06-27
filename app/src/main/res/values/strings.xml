@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FLIGHTSCRY</string>
+  <string name="departure">DEPARTURE</string>
+  <string name="vn780">VN780</string>
+  <string name="ho_chi_minh_sgn">HO CHI MINH (SGN)</string>
+  <string name="_04_25_pm">04:25 PM</string>
+  <string name="arrival">ARRIVAL</string>
+  <string name="_10_35_am">10:35 AM</string>
+  <string name="melbourne_mel">MELBOURNE (MEL)</string>
+  <string name="flight_number">FLIGHT NUMBER</string>
+</resources>
